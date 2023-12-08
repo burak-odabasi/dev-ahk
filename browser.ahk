@@ -1,4 +1,4 @@
-CoordMode, Mouse, Screen ; Set coordinate mode to Screen
+CoordMode, Mouse, Screen ; Set coordinate mode to Screen 
 
 MButton:: ; Middle mouse button
     ; Store current mouse coordinates
